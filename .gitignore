@@ -1,0 +1,6 @@
+/build/
+/build-current/
+*.dll
+*.lib
+*.exp
+*.pdb

@@ -1,0 +1,8 @@
+{
+  "name": "kingcore",
+  "version": "1.0.0",
+  "dependencies": [
+    "commonlibsse-ng",
+    "spdlog"
+  ]
+}
